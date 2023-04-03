@@ -12,4 +12,4 @@ cd CrossMintChallengeAPI
 dotnet run.
 ```
 
-
+<img width="1493" alt="image" src="https://user-images.githubusercontent.com/48774395/229400511-5c969b3e-e9ff-43f7-bb84-36ad7c816308.png">
