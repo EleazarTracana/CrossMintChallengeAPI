@@ -1,3 +1,5 @@
+using System;
+using System.Threading.Tasks;
 using CrossMintChallenge.Core.Interfaces;
 using CrossMintChallenge.Core.Models;
 using CrossMintChallenge.Utilities;
@@ -13,9 +15,11 @@ public class CrossMintChallengeService : ICrossMintChallengeService
 
     public CrossMintChallengeService(
         ICrossMintCandidateService crossMintCandidateService,
-        IMegaverseService megaverseService)
+        IMegaverseService megaverseService,
+            ILogger<CrossMintChallengeService> logger)
     {
         _megaverseService = megaverseService;
+        _logger = logger;
         _crossMintCandidateService = crossMintCandidateService;
     }
 

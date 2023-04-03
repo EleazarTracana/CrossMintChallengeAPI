@@ -1,4 +1,5 @@
 
+using System.Threading.Tasks;
 using CrossMintChallenge.Core.Models;
 
 namespace CrossMintChallenge.Core.Interfaces;

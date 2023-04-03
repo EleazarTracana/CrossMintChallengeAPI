@@ -1,4 +1,5 @@
-﻿using CrossMintChallenge.Core.Enumeration;
+﻿using System;
+using CrossMintChallenge.Core.Enumeration;
 
 namespace CrossMintChallenge.Utilities;
 
