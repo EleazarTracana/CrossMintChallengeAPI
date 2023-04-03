@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrossMintChallengeAPI", "CrossMintChallengeAPI\CrossMintChallengeAPI.csproj", "{DBED90CC-624B-42B4-AB59-6AB214C5E748}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrossMintChallenge.Clients", "CrossMintChallenge.Clients\CrossMintChallenge.Clients.csproj", "{4A4040E7-5337-414F-8894-B804571A52B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrossMintChallenge.Service", "CrossMintChallenge.Service\CrossMintChallenge.Service.csproj", "{8A078B36-C384-4300-8C0B-580ABDD3876C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrossMintChallenge.Core", "CrossMintChallenge.Core\CrossMintChallenge.Core.csproj", "{41EC6E38-1DF6-4580-B33B-48A47119D7E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrossMintChallenge.Utilities", "CrossMintChallenge.Utilities\CrossMintChallenge.Utilities.csproj", "{A3BF0A46-8A76-4F69-87E8-E23C32807EDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBED90CC-624B-42B4-AB59-6AB214C5E748}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBED90CC-624B-42B4-AB59-6AB214C5E748}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBED90CC-624B-42B4-AB59-6AB214C5E748}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBED90CC-624B-42B4-AB59-6AB214C5E748}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A4040E7-5337-414F-8894-B804571A52B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A4040E7-5337-414F-8894-B804571A52B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A4040E7-5337-414F-8894-B804571A52B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A4040E7-5337-414F-8894-B804571A52B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A078B36-C384-4300-8C0B-580ABDD3876C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A078B36-C384-4300-8C0B-580ABDD3876C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A078B36-C384-4300-8C0B-580ABDD3876C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A078B36-C384-4300-8C0B-580ABDD3876C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41EC6E38-1DF6-4580-B33B-48A47119D7E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41EC6E38-1DF6-4580-B33B-48A47119D7E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41EC6E38-1DF6-4580-B33B-48A47119D7E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41EC6E38-1DF6-4580-B33B-48A47119D7E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3BF0A46-8A76-4F69-87E8-E23C32807EDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3BF0A46-8A76-4F69-87E8-E23C32807EDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3BF0A46-8A76-4F69-87E8-E23C32807EDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3BF0A46-8A76-4F69-87E8-E23C32807EDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xBmSbFni53Mxtm4jvRJSOYM6/7dgiXJEr8HoeXM9OiRHCizPjECqGq0GTVEfzdcbMq7r9VWXA46XBXBrKH5WIA==",
+  "success": true,
+  "projectFilePath": "/Users/eleazar/Desktop/crossmint/CrossMintChallenge.Utilities/CrossMintChallenge.Utilities.csproj",
+  "expectedPackageFiles": [
+    "/Users/eleazar/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

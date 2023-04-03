@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/eleazar/Desktop/crossmint/CrossMintChallenge.Services/CrossMintChallenge.Services.csproj": {}
+  },
+  "projects": {
+    "/Users/eleazar/Desktop/crossmint/CrossMintChallenge.Services/CrossMintChallenge.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/eleazar/Desktop/crossmint/CrossMintChallenge.Services/CrossMintChallenge.Services.csproj",
+        "projectName": "CrossMintChallenge.Services",
+        "projectPath": "/Users/eleazar/Desktop/crossmint/CrossMintChallenge.Services/CrossMintChallenge.Services.csproj",
+        "packagesPath": "/Users/eleazar/.nuget/packages/",
+        "outputPath": "/Users/eleazar/Desktop/crossmint/CrossMintChallenge.Services/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/eleazar/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/x64/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.403/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

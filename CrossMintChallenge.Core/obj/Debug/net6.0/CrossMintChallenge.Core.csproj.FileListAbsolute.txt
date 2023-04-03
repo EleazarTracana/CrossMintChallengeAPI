@@ -1,0 +1,12 @@
+/Users/eleazar/Desktop/crossmint/CrossMintChallenge.Core/bin/Debug/net6.0/CrossMintChallenge.Core.deps.json
+/Users/eleazar/Desktop/crossmint/CrossMintChallenge.Core/bin/Debug/net6.0/CrossMintChallenge.Core.dll
+/Users/eleazar/Desktop/crossmint/CrossMintChallenge.Core/bin/Debug/net6.0/CrossMintChallenge.Core.pdb
+/Users/eleazar/Desktop/crossmint/CrossMintChallenge.Core/obj/Debug/net6.0/CrossMintChallenge.Core.csproj.AssemblyReference.cache
+/Users/eleazar/Desktop/crossmint/CrossMintChallenge.Core/obj/Debug/net6.0/CrossMintChallenge.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eleazar/Desktop/crossmint/CrossMintChallenge.Core/obj/Debug/net6.0/CrossMintChallenge.Core.AssemblyInfoInputs.cache
+/Users/eleazar/Desktop/crossmint/CrossMintChallenge.Core/obj/Debug/net6.0/CrossMintChallenge.Core.AssemblyInfo.cs
+/Users/eleazar/Desktop/crossmint/CrossMintChallenge.Core/obj/Debug/net6.0/CrossMintChallenge.Core.csproj.CoreCompileInputs.cache
+/Users/eleazar/Desktop/crossmint/CrossMintChallenge.Core/obj/Debug/net6.0/CrossMintChallenge.Core.dll
+/Users/eleazar/Desktop/crossmint/CrossMintChallenge.Core/obj/Debug/net6.0/refint/CrossMintChallenge.Core.dll
+/Users/eleazar/Desktop/crossmint/CrossMintChallenge.Core/obj/Debug/net6.0/CrossMintChallenge.Core.pdb
+/Users/eleazar/Desktop/crossmint/CrossMintChallenge.Core/obj/Debug/net6.0/ref/CrossMintChallenge.Core.dll

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "J0f7qCNcZWK2rwKHUQaORUNNxMxrqir1z74TdJcXwMs=",
+  "Source": "CrossMintChallengeAPI",
+  "BasePath": "_content/CrossMintChallengeAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
