@@ -6,5 +6,10 @@
 
 1. Download and Install .NET 6 SDK: https://dotnet.microsoft.com/en-us/download
 2. Execute commands: 
-  a. cd CrossMintChallegeAPI
-  b. dotnet run
+
+```
+cd CrossMintChallengeAPI
+dotnet run.
+```
+
+
