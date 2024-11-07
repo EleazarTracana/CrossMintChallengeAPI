@@ -1,6 +1,6 @@
 # CrossMintChallengeAPI
 
-.NET Core 6 service for solving CrossMint Coding CHallenge
+.NET Core 6 service for solving CrossMint Coding Challenge
 
   ## Setup Development Environment:
 
